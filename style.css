@@ -24,3 +24,10 @@ p {
   max-width: 600px;
   margin: 20px auto;
 }
+#about-me {
+  background-color: #eaf6ff;
+  padding: 15px 25px;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: 20px auto;
+}
